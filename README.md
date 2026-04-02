@@ -2,6 +2,17 @@
 
 A tense, single-player survival game inspired by **Alice in Borderland**. Answer trivia questions - but be careful! The further your answer is from correct, the more deadly fire arrows will rain down from the sky. Find shelter before they hit!
 
+<p>
+  <img alt="React" src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" />
+  <img alt="Three.js" src="https://img.shields.io/badge/Three.js-000000?logo=threedotjs&logoColor=white" />
+  <img alt="React Three Fiber" src="https://img.shields.io/badge/React%20Three%20Fiber-111111?logo=react&logoColor=61DAFB" />
+  <img alt="Drei" src="https://img.shields.io/badge/Drei-222222?logo=react&logoColor=61DAFB" />
+  <img alt="Rapier" src="https://img.shields.io/badge/Rapier-8A2BE2?logo=rust&logoColor=white" />
+  <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=white" />
+  <img alt="Vite" src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white" />
+</p>
+
 ![Game Screenshot](screenshot.png)
 
 ---
