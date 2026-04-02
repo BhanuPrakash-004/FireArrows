@@ -1,6 +1,2 @@
 node_modules
-*.glb
-*.gltfnode_modules
-*.glb
-*.gltf
 dist
